@@ -1,5 +1,5 @@
 <h1 align="center">TrailMyst (Built with Expo & React Native)</h1>
-<a href="https://hack36.in"> <img src="https://postimage.me/images/2025/04/19/built-at-hack36.png" height=24px> </a>
+<a href="https://hack36.in"> <img src="https://postimage.me/images/2025/04/19/built-at-hack36.png" height=74px> </a>
 
 ## 🗺️ TrailMyst Overview
 
@@ -89,11 +89,14 @@ npm run reset-project
 
 This moves starter code to `app-example/` and gives you a fresh `app/` folder.
 
+## Frontend Repo Link:
+<a href="https://github.com/NabhanshuDash/TrailMyst/">Click to view our frontend repo in React Native Expo</a>
+
 ## Demo Video Link:
-<a href="#">Click to view our demo video</a> *(To be added)*
+<a href="https://youtube.com/shorts/LKYZj11LFe4">Click to view our demo video</a>
 
 ## Presentation Link:
-<a href="#">Click to view our presentation</a> *(To be added)*
+<a href="https://docs.google.com/presentation/d/1b9YHjgh6jnRwOaxoN4Ezi8YJ23ObiYC-9lLzKDKHhC4/edit#slide=id.gd431007ba2_0_208">Click to view our presentation</a> 
 
 ## Screenshots:
 <p>
@@ -120,4 +123,4 @@ Team Name: Trilluminati FNGR
 This project is licensed under the [MIT License](LICENSE).
 
 
-<a href="https://hack36.in"> <img src="https://postimage.me/images/2025/04/19/built-at-hack36.png" height=50px> </a>
+<a href="https://hack36.in"> <img src="https://postimage.me/images/2025/04/19/built-at-hack36.png" height=74px> </a>
